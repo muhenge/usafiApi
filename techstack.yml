@@ -1,0 +1,20 @@
+repo_name: muhenge/usafiApi
+report_id: 83a5aa6d72a1228316b49648f7f85109
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-01T14:43:08+00:00'
+requested_by: muhenge
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/muhenge/usafiApi
+  detection_source: Repo Metadata
